@@ -1,11 +1,11 @@
 <div align="center">
-<a href="https://ibb.co/SKXCZHR"><img src="https://i.ibb.co/JzRJS85/2258810.jpg" alt="2258810" border="0" /></a>
+<a href="https://ibb.co/SKXCZHR"><img src="https://i.ibb.co/mJsFbJ1/IMG-20220525-WA0264.jpg" alt="2258810" border="0" /></a>
 
 # **NEZUKO : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
 <a href="https://www.codefactor.io/repository/github/toshiro223/nezuko"><img src="https://www.codefactor.io/repository/github/toshiro223/nezuko/badge" alt="CodeFactor" /></a>
 
-## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919609900020) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917892202052) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 
 > A Fully Modular and Efficient Bot <br>
@@ -34,7 +34,7 @@ Button : If you are deploying from a fork
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to⬇️
-    [Nezuko-Guides](https://github.com/Toshiro223/Nezuko-Guides/blob/main/README.md)
+    [Nezuko-Guides](https://github.com/akumasugi/Nezuko-Guides/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
