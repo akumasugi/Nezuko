@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `❤️ *NEZUKO* ❤️\n\n🏮 *Description: A Fully Oriented Whatsapp Bot Based on Chitoge Don't forget to give a star to the repo before fork.*\n\n 🌟*CHITOGE: https://github.com/ShineiIchijo/Chitoge*\n\n 📒*Chitoge-Guide: https://github.com/ShineiIchijo/Chitoge-Guides*\n\n ❤️*NEZUKO:https://github.com/Toshiro223/Nezuko*\n\n 📒*Nezuko-Guide:https://github.com/Toshiro223/Nezuko-Guides*\n\n`,
+				caption: `❤️ *NEZUKO* ❤️\n\n🙈 *Description: repo is private better luck next time.*\n\n💖 *insta id: https://www.instagram.com/akuma__24/?hl=en* \n\n 💖\n`,
 			}
 		);
 	};
