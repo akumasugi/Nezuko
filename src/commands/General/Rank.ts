@@ -100,9 +100,9 @@ let pfp: string
         try {
             pfp = await this.client.getProfilePicture(user)
         } catch (err) {
-            M.reply(`Profile Picture not Accessible of ${username}`)
+            M.reply(`Profile Picture not Accessible of ${username} must be ugly probably`);
             pfp =
-                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWhshgkXh025auPy0RDEeY9j3B14jlZMqgaw&usqp=CAU'
+                'https://i.ibb.co/nLczxZy/8c8833d8c8a3d411e42971858b24c452.jpg'
         }
 let discrim = `${level}`
 let image = await yuricanvas.rank({ 
